@@ -10,6 +10,7 @@ get_response = requests.post(endpoint,
         "content": "Hello world",
         "price": "abc134"
         }
+        
 )
 
  # HTTP Request
